@@ -1,1 +1,1 @@
-# This repository contains some solves and scripts used in HuntressLab 2023 CTF
+# This repository contains some solves and scripts used in HuntressLabs 2023 CTF
