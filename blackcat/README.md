@@ -71,5 +71,3 @@ That fixes lowercase, but messes up with some of the special chars and uppercase
 ![] (https://github.com/nikip72/huntress-2023/blob/main/blackcat/flag.png)
 
 
-
-
