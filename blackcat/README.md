@@ -1,5 +1,5 @@
 # BlackCat
-## _Difficultty: Easy
+## _Difficultty: Easy_
 ## _Category: Malware_
 
 ### _Challenge code_ (https://github.com/nikip72/huntress-2023/blob/main/blackcat/blackcat.7z)
