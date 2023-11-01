@@ -55,7 +55,7 @@ A | B | Y
 
 Checking the asumption with CyberChef (https://gchq.github.io/CyberChef/)
 
-![] (https://github.com/nikip72/huntress-2023/blob/main/blackcat/hamlet1.png)
+![](https://github.com/nikip72/huntress-2023/blob/main/blackcat/hamlet1.png)
 
 That reveals the text of Hamlet, although case is mismatched and space symbols are NULLs.
 ```
@@ -64,10 +64,10 @@ thetragedyofhamletprinceofdenmark***BYwILLIAMsHAKESPEARE****dRAMATIS
 
 As ASCII code of space is 32, that suggests that before XOR'ing 32 is substracted from the ascii code, then XORd
 
-![] (https://github.com/nikip72/huntress-2023/blob/main/blackcat/hamlet2.png)
+![](https://github.com/nikip72/huntress-2023/blob/main/blackcat/hamlet2.png)
 
 That fixes lowercase, but messes up with some of the special chars and uppercase letters. BUT. As we know from the challenge rules, flag is only numbers, lowercase letters (a-f) and {}, so for an easy win we can try and decrypt flag.txt.encry without decrypting input anymore.
 
-![] (https://github.com/nikip72/huntress-2023/blob/main/blackcat/flag.png)
+![](https://github.com/nikip72/huntress-2023/blob/main/blackcat/flag.png)
 
 
