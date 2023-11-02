@@ -40,7 +40,7 @@ PE TimeDateStamp	Sun Aug 11 05:47:24 2069
 and use `windows.hashdump` plugin to get password hashes
 
 ```
-vol -f image.bin windows.hashdump
+$ vol -f image.bin windows.hashdump
 
 Volatility 3 Framework 2.5.0
 Progress:  100.00		PDB scanning finished
