@@ -6,7 +6,7 @@
 
 ## Analysis
 
-Unpacking the provided zip archive results in a huge 4.5Gb `image.bin` file. Running `strings` on the file reveals a lot of strings, unfortunately hunting down for passwords in clear text is unsuccessful.  Trying to mount the file as a raw file system is also unseucessful. After some tinkering around it appears that the image is actually a forensic memory image, so next step is to try to analyze it with `volatility` (https://www.volatilityfoundation.org/)
+Unpacking the provided zip archive results in a huge 4.5Gb `image.bin` file. Running `strings` on the file reveals a lot of strings, unfortunately hunting down for passwords in clear text is unsuccessful.  Trying to mount the file as a raw file system is also unsuccessful. After some tinkering around it appears that the image is actually a forensic memory image, so next step is to try to analyze it with `volatility` (https://www.volatilityfoundation.org/)
 
 ```
 $ vol -f image.bin windows.info                                                                                                                                              
