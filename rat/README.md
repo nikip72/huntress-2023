@@ -21,13 +21,13 @@ Some of the tools I use, in no particular order:
 
 Uploading the sample to `VirusTotal` shows quite some detections (at the moment).
 
-![] (https://github.com/nikip72/huntress-2023/blob/main/rat/VT1.png)
+![](https://github.com/nikip72/huntress-2023/blob/main/rat/VT1.png)
 
 Checking the `BEHAVIOR` tab. at the bottom there is a section `Decoded text` that contains some strings automatically extracted that were `input or output of an encoding operations while the file was studied`.
 
-![] (https://github.com/nikip72/huntress-2023/blob/main/rat/VT2.png)
+![](https://github.com/nikip72/huntress-2023/blob/main/rat/VT2.png)
 ...
-![] (https://github.com/nikip72/huntress-2023/blob/main/rat/VT3.png)
+![](https://github.com/nikip72/huntress-2023/blob/main/rat/VT3.png)
 
 
 So the flag is revealed.
