@@ -1,4 +1,4 @@
-# Thumb Drive
+# RAT
 ## _Difficultty: Medium_
 ## _Category: Malware_
 
