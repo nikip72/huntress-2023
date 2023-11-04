@@ -2,7 +2,7 @@
 ## _Difficultty: Medium_
 ## _Category: Malware_
 
-### _Challenge code_ (https://github.com/nikip72/huntress-2023/blob/main/rat.7z)
+### _Challenge code_ (https://github.com/nikip72/huntress-2023/blob/main/rat/rat.7z)
 ### _password: infected_
 
 
